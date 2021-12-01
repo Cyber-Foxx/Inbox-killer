@@ -20,7 +20,7 @@ Run :
 
 cd Inbox-killer
 
-python Inbox killer.py
+python 'Inbox killer.py'
 
 Single Code For Termux :
 
