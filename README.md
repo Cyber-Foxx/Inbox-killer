@@ -1,29 +1,30 @@
 # Inbox-killer
 
 
-Install :
+## Install :
 
-apt update -y
+1. apt update -y
 
-apt upgrade -y
+2. apt upgrade -y
 
-pkg install git -y
+3. pkg install git -y
 
-pkg install python -y
+4. pkg install python -y
 
-pip install requests
+5. pip install requests
 
-git clone https://github.com/Cyber-Foxx/Inbox-killer.git
+6. git clone https://github.com/Cyber-Foxx/Inbox-killer.git
 
 
-Run :
+### Run :
 
-cd Inbox-killer
+1. cd Inbox-killer
 
-python 'Inbox killer.py'
+2. python 'Inbox killer.py'
 
-Single Code For Termux :
+#### Single Code For Termux :
 
 cd $HOME && cd Inbox-killer && python Inbox killer.py
 
 
+* C-Foxx
